@@ -11,7 +11,7 @@ html, body {
 }
 
 body {
-    background: black url('../imagens/fundo-madeira.jpg') center center no-repeat fixed;
+    background: url('../imagens/fundo-madeira.jpg') center center no-repeat fixed;
     background-size: cover;
 }
 
